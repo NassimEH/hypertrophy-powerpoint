@@ -28,7 +28,7 @@ A slideshow served as a visual aid, allowing me to demystify this technical conc
 
 ## Ce que j'ai appris | What I Learned
 
-### FR :
+## FR :
 
 À travers ce projet, j'ai développé des compétences cruciales en matière de communication et de pédagogie :
 
@@ -37,7 +37,7 @@ A slideshow served as a visual aid, allowing me to demystify this technical conc
 - **Présentation Orale** : Développement de compétences en présentation pour capter et maintenir l'intérêt de l'auditoire.
 - **Recherche Approfondie** : Approfondissement de mes connaissances sur l'hypertrophie musculaire par la recherche et la citation d'auteurs experts.
 
-### ENG :
+## ENG :
 
 During this project, I honed key skills in communication and teaching:
 
