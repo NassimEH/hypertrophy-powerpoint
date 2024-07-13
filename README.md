@@ -7,7 +7,7 @@ Ce projet s'inscrit dans le cadre du cours d'expression et communication où l'o
 L'utilisation d'un diaporama comme support visuel m'a permis de vulgariser ce concept technique en expliquant :
 
 - Ce qu'est l'hypertrophie
-- Le processus derrière
+- Comment provoquer ce processus
 - Les facteurs qui y contribuent
 - La distinction entre hypertrophie et hyperplasie, deux termes souvent confondus
 - Les enseignements d'auteurs reconnus dans le domaine, comme Frédéric Delavier
@@ -54,6 +54,5 @@ Merci de votre attention ! | Thank you for your attention!
 
 ### Liens Utiles | Useful Links
 
-- [Frédéric Delavier](https://example.com) 
-- [Cours d'expression et communication](https://example.com)
-- [Institut Polytechnique de Paris](https://example.com) 
+- [Frédéric Delavier]([https://example.com](https://www.amazon.fr/Guide-mouvements-musculation-Fr%C3%A9d%C3%A9ric-Delavier/dp/2711424103/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nQpqF0LmSe43PeKvhIneATPpOrBzjPlg33snXf7eOBeAdwVqWcXcnZF0Z_ZZdjKEQ9wNkW59mU4za160s0I36DWaOD0O8PLu5Drljf2rEMtMIZMKMje-S0-ZxE9lorZfo_22T7zcW-eOhNIA31qdl0pSrfRwbPMRPR5vxUgX-f-5VsUtEBaK57XD-JrtY-U8eBC3H8LY4wDCrzx7zcM-Y_h6x8vchwB4BXk223jeMgA.PCWcMBeiVUzrvLKawD6ay7bslMZxVloyjlfzqlW70Ew&dib_tag=se&qid=1720878173&refinements=p_27%3AFr%C3%A9d%C3%A9ric+Delavier&s=books&sr=1-1)) 
+- [Université Paris-Est Créteil](https://www.u-pec.fr/) 
